@@ -1,0 +1,13 @@
+.outer-wrapper {
+	padding: 20px;
+}
+
+.main-wrapper {
+	width: 72%;
+	float: left;
+}
+
+.sidebar-wrapper {
+	width: 26%;
+	float: right;
+}
