@@ -3,11 +3,12 @@
 }
 
 .main-wrapper {
-	width: 72%;
+	width: 100%;
 	float: left;
 }
 
 .sidebar-wrapper {
-	width: 26%;
+	display: none;
+	width: 0%;
 	float: right;
 }
